@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.Celton.Core.Options", "Lab.Celton.Core.Options\Lab.Celton.Core.Options.csproj", "{C5190F1C-4828-4B76-8655-4C6E5C403FED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5190F1C-4828-4B76-8655-4C6E5C403FED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5190F1C-4828-4B76-8655-4C6E5C403FED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5190F1C-4828-4B76-8655-4C6E5C403FED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5190F1C-4828-4B76-8655-4C6E5C403FED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49396D52-EEBD-4B7A-B237-91BCA959EB0F}
+	EndGlobalSection
+EndGlobal
